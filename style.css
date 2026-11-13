@@ -2,3 +2,8 @@
 html { scroll-behavior: smooth; }
 body { background: #02070A; color: #fff; }
 body { font-family: 'Segoe UI', Arial, sans-serif; }
+.hero {
+  min-height: 100vh;
+  display: flex; flex-direction: column;
+  align-items: center; justify-content: center; text-align: center;
+}
