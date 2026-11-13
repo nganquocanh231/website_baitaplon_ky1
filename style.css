@@ -15,3 +15,7 @@ body { font-family: 'Segoe UI', Arial, sans-serif; }
     radial-gradient(ellipse 45% 40% at 50% 100%, #FC734D 0%, transparent 100%),
     radial-gradient(ellipse 130% 80% at 50% 100%, #09318D 0%, #02070A 75%);
 }
+.header {
+  display: flex; justify-content: space-between; align-items: center;
+  padding: 18px 60px; position: absolute; width: 100%; z-index: 10;
+}
