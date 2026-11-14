@@ -76,6 +76,8 @@ footer { border-top: 1px solid rgba(255,255,255,0.1); }
   display: grid; gap: 30px; max-width: 1000px; margin: 0 auto;
   grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));
 }
+.info { background: rgba(2, 7, 10, 0.4); backdrop-filter: blur(10px); }
+.info { border: 1px solid rgba(255,255,255,0.1); border-radius: 18px; padding: 30px; }
 
 @media (max-width: 700px) {
   .header { padding: 14px 20px; }
