@@ -79,6 +79,7 @@ footer { border-top: 1px solid rgba(255,255,255,0.1); }
 .info { background: rgba(2, 7, 10, 0.4); backdrop-filter: blur(10px); }
 .info { border: 1px solid rgba(255,255,255,0.1); border-radius: 18px; padding: 30px; }
 .info p { margin-bottom: 20px; font-size: 18px; color: #cfd8e3; }
+.form { display: flex; flex-direction: column; gap: 14px; }
 
 @media (max-width: 700px) {
   .header { padding: 14px 20px; }
