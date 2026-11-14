@@ -54,3 +54,6 @@ nav a:hover { color: #FC734D; }
   background: transparent; color: #fff; border: 1px solid #FC734D;
   padding: 10px 20px; border-radius: 30px; cursor: pointer;
 }
+.card { transition: 0.3s; }
+.card:hover { transform: translateY(-8px); border-color: #FC734D; }
+.card button:hover { background: #FC734D; }
