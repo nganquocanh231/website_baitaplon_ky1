@@ -49,3 +49,8 @@ nav a:hover { color: #FC734D; }
   font-size: 70px; border-radius: 12px; margin-bottom: 14px;
   background: linear-gradient(135deg, #09318D, #02070A);
 }
+.price { color: #FC734D; font-weight: 700; margin: 8px 0 14px; }
+.card button {
+  background: transparent; color: #fff; border: 1px solid #FC734D;
+  padding: 10px 20px; border-radius: 30px; cursor: pointer;
+}
