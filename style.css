@@ -34,3 +34,5 @@ nav a:hover { color: #FC734D; }
 .hero h1 { font-size: 60px; line-height: 1.15; max-width: 800px; }
 .hero h1 em { color: #FC734D; font-style: italic; }
 .hero p { color: #b8c4d6; margin: 20px 0 32px; font-size: 18px; }
+.products { padding: 80px 60px; background: #02070A; }
+.products h2 { text-align: center; font-size: 36px; margin-bottom: 40px; }
