@@ -57,3 +57,5 @@ nav a:hover { color: #FC734D; }
 .card { transition: 0.3s; }
 .card:hover { transform: translateY(-8px); border-color: #FC734D; }
 .card button:hover { background: #FC734D; }
+footer { text-align: center; padding: 30px; color: #8a97ab; }
+footer { border-top: 1px solid rgba(255,255,255,0.1); }
