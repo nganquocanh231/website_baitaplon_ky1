@@ -65,6 +65,8 @@ nav a:hover { color: #FC734D; }
 .card button:hover { background: #FC734D; }
 footer { text-align: center; padding: 30px; color: #8a97ab; }
 footer { border-top: 1px solid rgba(255,255,255,0.1); }
+.contact { padding: 100px 60px; }
+.contact h2 { text-align: center; font-size: 36px; margin-bottom: 40px; }
 @media (max-width: 700px) {
   .header { padding: 14px 20px; }
   nav { display: none; }
