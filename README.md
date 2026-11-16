@@ -2,6 +2,8 @@
 
 Website giới thiệu và trưng bày các sản phẩm thể thao, gồm áo bóng đá, giày, bóng và trang phục thể thao mùa đông. Giao diện được xây dựng dưới dạng website tĩnh, có thể mở trực tiếp bằng trình duyệt hoặc phục vụ bằng máy chủ web.
 
+**Xem website:** <https://nganquocanh231.github.io/website_baitaplon_ky1/>
+
 ## Chức năng
 
 - Hiển thị trang chủ với thông điệp giới thiệu cửa hàng.
@@ -54,14 +56,7 @@ Giữ nguyên tên và vị trí thư mục `ảnh/` cùng các tệp hình ản
 
 ## Cài đặt
 
-Tải hoặc sao chép toàn bộ mã nguồn về máy. Nếu dùng Git:
-
-```bash
-git clone <URL-kho-ma-nguon>
-cd <thu-muc-du-an>
-```
-
-Thay `<URL-kho-ma-nguon>` bằng URL kho mã nguồn và `<thu-muc-du-an>` bằng thư mục vừa tải. Nếu đã có thư mục dự án, mở Terminal tại thư mục chứa `index.html`.
+Để xem website đã triển khai, truy cập <https://nganquocanh231.github.io/website_baitaplon_ky1/>. Để chạy hoặc chỉnh sửa trên máy, tải hoặc sao chép mã nguồn vào máy, rồi mở Terminal tại thư mục chứa `index.html`.
 
 ### Windows
 
