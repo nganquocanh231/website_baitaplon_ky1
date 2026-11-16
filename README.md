@@ -95,16 +95,16 @@ Mở tệp `index.html` bằng trình duyệt. Cách này không yêu cầu cài
 Tại thư mục dự án, chạy:
 
 ```bash
-python -m http.server 8000
+python -m https://nganquocanh231.github.io/website_baitaplon_ky1/
 ```
 
 Trên một số hệ thống, lệnh có thể là:
 
 ```bash
-python3 -m http.server 8000
+python3 -m https://nganquocanh231.github.io/website_baitaplon_ky1/
 ```
 
-Mở <http://localhost:8000> trong trình duyệt. Dừng máy chủ bằng `Ctrl+C`.
+Mở <https://nganquocanh231.github.io/website_baitaplon_ky1/> trong trình duyệt. Dừng máy chủ bằng `Ctrl+C`.
 
 ### Dùng Visual Studio Code
 
